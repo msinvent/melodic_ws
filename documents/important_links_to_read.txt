@@ -1,0 +1,7 @@
+https://wiki.ros.org/catkin/Tutorials/CreatingPackage
+
+https://wiki.ros.org/catkin/package.xml
+
+https://docs.ros.org/melodic/api/catkin/html/howto/format2/index.html
+
+https://wiki.ros.org/IDEs
